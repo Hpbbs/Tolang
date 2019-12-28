@@ -36,23 +36,7 @@
 
 
 #c
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
-
-@Hpbbs
-2.9k
-93.3k48.2kgithub/gitignore
- Code Pull requests 126 Actions Projects 0 Security Insights
-gitignore/C.gitignore
-@chaosdefinition chaosdefinition Update C.gitignore
-f76d089 on 1 Nov 2016
-@rye@dashed@Leandros@snisarg@dybekm@eugpermar@starrify@chaosdefinition@arsenm
-52 lines (44 sloc)  430 Bytes
 
 # Prerequisites
 *.d
